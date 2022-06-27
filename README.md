@@ -27,7 +27,7 @@ For practical sessions, a working [jupyter notebook](https://jupyter.org/install
 
 ### Data Challenge
 
-More information to come soon!
+See the challenge's [website](https://www.kaggle.com/competitions/kernel-methods-ammi-2022/data)
 
 ### AMMI 2019, 2020
 
