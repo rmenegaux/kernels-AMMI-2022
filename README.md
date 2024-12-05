@@ -37,4 +37,4 @@ For practice exercises and quizzes, please check out the material from past cour
 - [Jean-Philippe Vert](http://cbio.mines-paristech.fr/~jvert) (Prof.)
 - [Julien Mairal](https://lear.inrialpes.fr/people/mairal/) (Prof.)
 - [Michael Arbel](https://michaelarbel.github.io) (Prof.)
-- Romain Menegaux (T.A.)
+- [Romain Menegaux](https://rmenegau.github.io) (T.A.)
